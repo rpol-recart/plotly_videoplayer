@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ddd;
+}
+
+.logo-and-title {
+    display: flex;
+    align-items: center;
+    color:blue
+}
+
+.logo {
+    height: 80px;
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
